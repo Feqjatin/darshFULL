@@ -9,42 +9,48 @@
 
 <form asp-controller="Admin" asp-action="AssignSubjects" method="post">
 
-	<div class="row my-3">
+    <div class="row my-3">
 
-		@if (ViewBag.Departments == null)
+        @if (ViewBag.Departments == null)
 		{
-			<div class="col-md-4"></div>
-			<div class="col-md-4" style="text-align:center">No departments to select</div>
+        <div class="col-md-4"></div>
+        <div class="col-md-4" style="text-align:center">No departments to select</div>
 		}
 		else
 		{
-			<div class="col-md-6" style="text-align:center">
-				<div class="form-floating">
-					<select class="form-select" id="Dept1" name="Dept1" aria-required="true">
-						<option value="" disabled selected>Select Department</option>
-						@foreach (var dept in ViewBag.Departments)
+        <div class="col-md-6" style="text-align:center">
+            <div class="form-floating">
+                <select class="form-select" id="Dept1" name="Dept1" aria-required="true">
+                    <option value="" disabled selected>Select Department</option>
+                    @foreach (var dept in ViewBag.Departments)
 						{
-							<option value="@dept.DeptId">@dept.DeptName</option>
+                    <option value="@dept.DeptId">@dept.DeptName</option>
 						}
-					</select>
-					<label>Select Department</label>
-				</div>
-			</div>
+                </select>
+                <label>Select Department</label>
+            </div>
+        </div>
 
-			<div class="col-md-6">
-				<div class="form-floating">
-					<select class="form-select" id="Year1" name="Year1" aria-required="true">
-						<option value="" disabled selected>Select Year</option>
-					</select>
-					<label>Select Year</label>
-				</div>
-			</div>
+        <div class="col-md-6">
+            <div class="form-floating">
+                <select class="form-select" id="Year1" name="Year1" aria-required="true">
+                    <option value="" disabled selected>Select Year</option>
+                </select>
+                <label>Select Year</label>
+            </div>
+        </div>
 		}
 
-		<div class="text-center my-3">
-			<button type="submit" class="btn btn-primary px-4">Submit</button>
-		</div>
-	</div>
+        <div class="text-center my-3">
+            <button type="submit" class="btn btn-primary px-4">Submit</button>
+        </div>
+
+
+
+        <div class="text-center mb-3 mt-3">
+            <a class="btn btn-success" href="@Url.Action("Create", "Exam")">Generate Exam Timetable</a>
+        </div>
+    </div>
 
 </form>
 
