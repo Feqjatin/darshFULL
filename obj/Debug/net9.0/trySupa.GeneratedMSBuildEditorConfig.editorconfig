@@ -9,93 +9,101 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = trySupa
 build_property.RootNamespace = trySupa
-build_property.ProjectDir = C:\Users\JATIN PRAJAPATI\source\repos\champs33\
+build_property.ProjectDir = C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\JATIN PRAJAPATI\source\repos\champs33
+build_property.MSBuildProjectDirectory = C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/Admin/AddClass.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Admin/AddClass.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkQ2xhc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/Admin/AddDept.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Admin/AddDept.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkRGVwdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/Admin/AddSubject.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Admin/AddSubject.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkU3ViamVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/Admin/AddSubjectForClass.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Admin/AddSubjectForClass.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkU3ViamVjdEZvckNsYXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/Admin/AdminDashboard.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Admin/AdminDashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5EYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/Admin/AssignSubjects.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Admin/AssignSubjects.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXNzaWduU3ViamVjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/Admin/LoginAsAdmin.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Admin/LoginAsAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW5Bc0FkbWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/Home/Data.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Exam/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Exam/Preview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVxQcmV2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Home/Data.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/Home/DisplayTimetable.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Home/DisplayTimetable.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEaXNwbGF5VGltZXRhYmxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/Home/Index.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/Shared/Error.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/Teacher/Login.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Teacher/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/Teacher/Register.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Teacher/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/Teacher/SelectSubjectToTeach.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Teacher/SelectSubjectToTeach.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxTZWxlY3RTdWJqZWN0VG9UZWFjaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/Teacher/TeacherDashboard.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Teacher/TeacherDashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxUZWFjaGVyRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/Teacher/TeacherInterest.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Teacher/TeacherInterest.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxUZWFjaGVySW50ZXJlc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/_ViewImports.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/_ViewStart.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JATIN PRAJAPATI/Source/Repos/champs33/Views/Shared/_Layout.cshtml]
+[C:/Users/JATIN PRAJAPATI/Downloads/temporary/temporary/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9czih7q6rr

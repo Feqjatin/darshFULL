@@ -372,6 +372,18 @@
           }
         }
       },
+      "Rotativa.AspNetCore/1.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Rotativa.AspNetCore.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/Rotativa.AspNetCore.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Supabase/1.1.1": {
         "type": "package",
         "dependencies": {
@@ -1213,6 +1225,24 @@
         "postgresql.png"
       ]
     },
+    "Rotativa.AspNetCore/1.4.0": {
+      "sha512": "zn0KgqCQqiTuNPYgeqrIJxXafjJUfDJBcUJIhAV5NgWSCX3DOEeg339zMJTbzcCyoJgGPL5LrG+IKZ3k8/Uk9Q==",
+      "type": "package",
+      "path": "rotativa.aspnetcore/1.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net5.0/Rotativa.AspNetCore.dll",
+        "lib/net6.0/Rotativa.AspNetCore.dll",
+        "lib/net7.0/Rotativa.AspNetCore.dll",
+        "lib/net8.0/Rotativa.AspNetCore.dll",
+        "lib/netcoreapp3.1/Rotativa.AspNetCore.dll",
+        "lib/netstandard2.0/Rotativa.AspNetCore.dll",
+        "rotativa.aspnetcore.1.4.0.nupkg.sha512",
+        "rotativa.aspnetcore.nuspec"
+      ]
+    },
     "Supabase/1.1.1": {
       "sha512": "LW9O05IiZBW3YUDT/gndPKvzT3I7PVgx0j87+AdJu7mT42m7oh2nOnjuDR9pU0E9FE2Ke/QGovrH/u5OjGn7lg==",
       "type": "package",
@@ -1433,6 +1463,7 @@
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.21.0",
       "Newtonsoft.Json >= 13.0.3",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 9.0.3",
+      "Rotativa.AspNetCore >= 1.4.0",
       "Supabase >= 1.1.1",
       "Supabase.Postgrest >= 4.0.3"
     ]
@@ -1444,11 +1475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JATIN PRAJAPATI\\Source\\Repos\\champs33\\trySupa.csproj",
+      "projectUniqueName": "C:\\Users\\JATIN PRAJAPATI\\Downloads\\temporary\\temporary\\trySupa.csproj",
       "projectName": "trySupa",
-      "projectPath": "C:\\Users\\JATIN PRAJAPATI\\Source\\Repos\\champs33\\trySupa.csproj",
+      "projectPath": "C:\\Users\\JATIN PRAJAPATI\\Downloads\\temporary\\temporary\\trySupa.csproj",
       "packagesPath": "C:\\Users\\JATIN PRAJAPATI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JATIN PRAJAPATI\\Source\\Repos\\champs33\\obj\\",
+      "outputPath": "C:\\Users\\JATIN PRAJAPATI\\Downloads\\temporary\\temporary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1506,6 +1537,10 @@
           "Npgsql.EntityFrameworkCore.PostgreSQL": {
             "target": "Package",
             "version": "[9.0.3, )"
+          },
+          "Rotativa.AspNetCore": {
+            "target": "Package",
+            "version": "[1.4.0, )"
           },
           "Supabase": {
             "target": "Package",

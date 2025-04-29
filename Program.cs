@@ -5,7 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
 var builder = WebApplication.CreateBuilder(args);
-
+var env = builder.Environment;
 // Load configuration
 var configuration = builder.Configuration;
 
@@ -34,7 +34,7 @@ builder.Services.AddSession(options =>
 });
 
 var app = builder.Build();
-
+//Rotativa.AspNetCore.RotativaConfiguration.Setup(env.WebRootPath, "Rotativa");
 // Middleware
 app.UseRouting();
 app.UseAuthorization();

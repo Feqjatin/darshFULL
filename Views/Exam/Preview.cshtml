@@ -1,0 +1,71 @@
+﻿@model trySupa.Models.ExamPreviewViewModel
+
+<div style="text-align: center; margin-bottom: 20px; font-family: Arial, sans-serif;">
+    <h3 style="margin-bottom: 0;">Faculty of Technology & Engineering</h3>
+    <h3 style="margin-top: 5px; margin-bottom: 15px;">The Maharaja Sayajirao University of Baroda, Kalabhavan</h3>
+
+    <h4 style="margin-bottom: 0;">@Model.ClassName @Model.Department Department</h4>
+    <h5 style="margin-bottom: 15px;">Exam Schedule</h5>
+
+    <h5><strong>Exam Type:</strong> @Model.ExamType</h5>
+</div>
+
+@if (Model.Timetable != null && Model.Timetable.Count > 0)
+{
+    <table style="width: 100%; border-collapse: collapse; text-align: center; font-family: Arial, sans-serif;">
+        <thead>
+            <tr>
+                <th style="border: 1px solid #000; padding: 8px; background-color: #f2f2f2;">Date</th>
+                <th style="border: 1px solid #000; padding: 8px; background-color: #f2f2f2;">Time</th>
+                <th style="border: 1px solid #000; padding: 8px; background-color: #f2f2f2;">Subject</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Timetable.Count; i++)
+            {
+                var startTime = DateTime.Today.Add(Model.Timetable[i].StartTime).ToString("hh:mm tt");
+                var endTime = DateTime.Today.Add(Model.Timetable[i].EndTime).ToString("hh:mm tt");
+                <tr>
+                    <td style="border: 1px solid #000; padding: 8px;">@Model.Timetable[i].ExamDate.ToString("dd-MM-yyyy")</td>
+                    <td style="border: 1px solid #000; padding: 8px;">@($"{startTime} to {endTime}")</td>
+                    <td style="border: 1px solid #000; padding: 8px;">@Model.Timetable[i].Subject</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    @if (Model.IsPdf == false)
+    {
+        <div style="margin-top: 30px;">
+            <form method="post" asp-action="DownloadPdf" asp-controller="Exam" style="display:inline;">
+                @for (int i = 0; i < Model.Timetable.Count; i++)
+                {
+                    <input type="hidden" name="Timetable[@i].Subject" value="@Model.Timetable[i].Subject" />
+                    <input type="hidden" name="Timetable[@i].ExamDate" value="@Model.Timetable[i].ExamDate.ToString("yyyy-MM-dd")" />
+                    <input type="hidden" name="Timetable[@i].StartTime" value="@Model.Timetable[i].StartTime" />
+                    <input type="hidden" name="Timetable[@i].EndTime" value="@Model.Timetable[i].EndTime" />
+                }
+                <input type="hidden" name="ClassName" value="@Model.ClassName" />
+                <input type="hidden" name="Department" value="@Model.Department" />
+                <input type="hidden" name="ExamType" value="@Model.ExamType" />
+
+                <button type="submit" class="btn btn-danger mt-3" disabled>Download PDF</button>
+            </form>
+
+            <a href="@Url.Action("Create", "Exam")" class="btn btn-secondary mt-3">Create Another Timetable</a>
+
+        </div>
+    }
+    @if (Model.IsPdf)
+    {
+        <div style="margin-top: 80px; font-family: Arial, sans-serif;">
+            <p><strong>Head of Department</strong></p>
+        </div>
+    }
+}
+else
+{
+    <div class="alert alert-warning">
+        No timetable data to preview.
+    </div>
+}

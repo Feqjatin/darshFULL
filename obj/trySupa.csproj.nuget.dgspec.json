@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JATIN PRAJAPATI\\Source\\Repos\\champs33\\trySupa.csproj": {}
+    "C:\\Users\\JATIN PRAJAPATI\\Downloads\\temporary\\temporary\\trySupa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JATIN PRAJAPATI\\Source\\Repos\\champs33\\trySupa.csproj": {
+    "C:\\Users\\JATIN PRAJAPATI\\Downloads\\temporary\\temporary\\trySupa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JATIN PRAJAPATI\\Source\\Repos\\champs33\\trySupa.csproj",
+        "projectUniqueName": "C:\\Users\\JATIN PRAJAPATI\\Downloads\\temporary\\temporary\\trySupa.csproj",
         "projectName": "trySupa",
-        "projectPath": "C:\\Users\\JATIN PRAJAPATI\\Source\\Repos\\champs33\\trySupa.csproj",
+        "projectPath": "C:\\Users\\JATIN PRAJAPATI\\Downloads\\temporary\\temporary\\trySupa.csproj",
         "packagesPath": "C:\\Users\\JATIN PRAJAPATI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JATIN PRAJAPATI\\Source\\Repos\\champs33\\obj\\",
+        "outputPath": "C:\\Users\\JATIN PRAJAPATI\\Downloads\\temporary\\temporary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,6 +69,10 @@
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[9.0.3, )"
+            },
+            "Rotativa.AspNetCore": {
+              "target": "Package",
+              "version": "[1.4.0, )"
             },
             "Supabase": {
               "target": "Package",

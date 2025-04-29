@@ -1,0 +1,140 @@
+﻿@model trySupa.Models.ExamPreviewViewModel
+
+@{
+    ViewData["Title"] = "Create Exam Timetable";
+    var deptList = ViewBag.Departments as List<string> ?? new List<string>();
+    var classNames = ViewBag.ClassNames as List<string> ?? new List<string>();
+}
+
+<h2>Generate Exam Timetable</h2>
+
+<form asp-action="Preview" method="post">
+    <div class="row mb-3">
+        <div class="col-md-4">
+            <label for="className">Select Class</label>
+            <select id="className" name="className" class="form-control" required>
+                <option value="">-- Select Class --</option>
+                @foreach (var y in classNames)
+                {
+                    <option value="@y">@y</option>
+                }
+            </select>
+        </div>
+        <div class="col-md-4">
+            <label for="department">Select Department</label>
+            <select id="department" name="department" class="form-control" required>
+                <option value="">-- Select Department --</option>
+                @foreach (var dept in deptList)
+                {
+                    <option value="@dept">@dept</option>
+                }
+            </select>
+        </div>
+        <div class="col-md-4">
+            <label for="examType">Exam Type</label>
+            <select id="examType" name="examType" class="form-control" required>
+                <option value="">-- Select Exam Type --</option> 
+                <option value="Internal">Internal</option>
+                <option value="External">External</option>
+            </select>
+        </div>
+        <div class="col-md-4">
+            <button type="button" id="fetchSubjectsBtn" class="btn btn-primary mt-3" onclick="loadSubjectsInDropdowns()">Fetch Subjects</button>
+            <button type="button" class="btn btn-success mt-3" onclick="addEmptyRow()">Add Subject</button>
+        </div>
+    </div>
+
+    <table class="table" id="examTable">
+        <thead>
+            <tr>
+                <th>Subject</th>
+                <th>Exam Date</th>
+                <th>Start Time</th>
+                <th>End Time</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Dynamically filled rows will appear here -->
+        </tbody>
+    </table>
+
+    <button type="submit" class="btn btn-primary mt-3">Preview Timetable</button>
+</form>
+
+<script>
+    document.getElementById('fetchSubjectsBtn').addEventListener('click', fetchSubjects);
+
+    function fetchSubjects() {
+        const className = document.getElementById('className').value;
+        const department = document.getElementById('department').value;
+
+        console.log('Class:', className, 'Department:', department);
+
+        if (className && department) {
+            fetch('@Url.Action("FetchSubjects", "Exam")', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Accept': 'application/json'
+                },
+                body: JSON.stringify({ className: className, department: department })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    const tbody = document.querySelector("#examTable tbody");
+                    tbody.innerHTML = ''; // Clear any existing rows
+
+                    // Add a row for each subject
+                    data.subjects.forEach((subject, index) => {
+                        addSubjectRow(subject, index);
+                    });
+                } else {
+                    alert("No subjects found.");
+                }
+            })
+            .catch(error => {
+                console.error('Error fetching subjects:', error);
+                alert('Failed to fetch subjects.');
+            });
+        } else {
+            alert("Please select both class and department.");
+        }
+    }
+
+    function addSubjectRow(subject, index) {
+        const tbody = document.querySelector("#examTable tbody");
+
+        const row = document.createElement('tr');
+        row.innerHTML = `
+            <td>
+                <input type="text" name="timetable[${index}].Subject" value="${subject}" class="form-control" ${subject ? 'readonly' : ''} required />
+            </td>
+            <td>
+                <input type="date" name="timetable[${index}].ExamDate" class="form-control" required />
+            </td>
+            <td>
+                <input type="time" name="timetable[${index}].StartTime" class="form-control" required />
+            </td>
+            <td>
+                <input type="time" name="timetable[${index}].EndTime" class="form-control" required />
+            </td>
+            <td>
+                <button type="button" class="btn btn-danger" onclick="deleteRow(this)">Delete</button>
+            </td>
+        `;
+        tbody.appendChild(row);
+    }
+    // Function to add an empty row when admin clicks 'Add Subject'
+    function addEmptyRow() {
+        const tbody = document.querySelector("#examTable tbody");
+        const rows = tbody.querySelectorAll('tr');
+        const index = rows.length; // Use the current number of rows as the index for the new row
+        addSubjectRow('', index); // Add an empty row
+    }
+
+    function deleteRow(button) {
+        const row = button.closest('tr');
+        row.remove();
+    }
+</script>

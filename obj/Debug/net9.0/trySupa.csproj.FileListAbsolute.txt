@@ -790,3 +790,271 @@ C:\Users\JATIN PRAJAPATI\Source\Repos\champs33\obj\Debug\net9.0\staticwebassets.
 C:\Users\JATIN PRAJAPATI\source\repos\champs33\obj\Debug\net9.0\trySupa.csproj.Up2Date
 C:\Users\JATIN PRAJAPATI\source\repos\champs33\obj\Debug\net9.0\trySupa.genruntimeconfig.cache
 C:\Users\JATIN PRAJAPATI\source\repos\champs33\obj\Debug\net9.0\ref\trySupa.dll
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\trySupa.dll
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\refint\trySupa.dll
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\trySupa.pdb
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\appsettings.json
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\trySupa.staticwebassets.runtime.json
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\trySupa.staticwebassets.endpoints.json
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\trySupa.exe
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\trySupa.deps.json
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\trySupa.runtimeconfig.json
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\trySupa.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\trySupa.pdb
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\MimeMapping.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Npgsql.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Supabase.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Supabase.Core.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Supabase.Functions.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Supabase.Gotrue.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Supabase.Postgrest.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Supabase.Realtime.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Supabase.Storage.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\System.Reactive.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Websocket.Client.dll
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\trySupa.csproj.AssemblyReference.cache
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\trySupa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\trySupa.AssemblyInfoInputs.cache
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\trySupa.AssemblyInfo.cs
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\trySupa.csproj.CoreCompileInputs.cache
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\trySupa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\trySupa.RazorAssemblyInfo.cache
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\trySupa.RazorAssemblyInfo.cs
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\trySupa.sourcelink.json
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\scopedcss\bundle\trySupa.styles.css
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\scopedcss\projectbundle\trySupa.bundle.scp.css
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\lrcv02kvcs-b9sayid5wm.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\tvp8mo1x7b-61n19gt1b8.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\vplod2f0dh-xtxxf3hu2r.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\5n7mdisgi8-t1cqhe9u97.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\343cc7yh3x-c2jlpeoesf.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\pnkfzf1fob-sejl45xvog.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\ndohpci0jm-aexeepp0ev.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\cwem7r3wh9-xvp3kq03qx.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\ua6b47nmpi-ausgxo2sd3.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\yxhfdgxsju-22vffe00uq.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\z4l10vmppg-cosvhxvwiu.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\9hnnn9lbc4-qesaa3a1fm.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\pe6eqtwgd8-fvhpjtyr6v.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\1osvn70zx8-tmc1g35s3z.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\731ae91au9-fsbi9cje9m.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\hei478tjbz-rxsg74s51o.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\hhbcy3bc3n-ee0r1s7dh0.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\vhfr9e239l-q9ht133ko3.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\b2w6lo78dx-jd9uben2k1.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\wdp0lsd6js-gye83jo8yx.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\5ryivq5920-r4e9w2rdcm.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\t4z7g8sfl5-wl58j5mj3v.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\oz4eshqdv5-c2oey78nd0.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\kf4fwz4khc-d4r6k3f320.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\mps8noc5xv-j5mq2jizvt.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\1b1bl409y1-keugtjm085.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\l2tq6yhrwd-nvvlpmu67g.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\8j7due2sv2-zub09dkrxp.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\ya7zmntent-pj5nd1wqec.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\ihr5080oi0-43atpzeawx.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\yqrcy5yjx0-v0zj4ognzu.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\qtyl06nuj8-ynyaa8k90p.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\dw01v4fkjj-hrwsygsryq.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\vvhu6hh4vg-c63t5i9ira.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\3j1gqyhszo-ft3s53vfgj.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\mso72imewp-4094rpi4f9.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\n7nmsncltg-6pdc2jztkx.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\am5rirh9bg-hd3gran6i8.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\f45c6ccbjo-iovd86k7lj.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\qvwnbks4ez-ltid2c489k.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\47amljszam-kbrnm935zg.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\ihn683jq6k-8vyfqsqgz1.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\2de7leii6g-y7v9cxd14o.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\rl1b8brxnm-u9q1upor1n.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\9p989awsh9-h1s4sie4z3.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\0fzmjak9yf-4d85u1mtcx.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\0ymt6x8e0n-0j3bgjxly4.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\4aryskb57u-03hjc8e09r.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\80e2bpah11-48y08845bh.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\dlor5vwpor-356vix0kms.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\e62i3m3boo-83jwlth58m.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\u7e0z617k8-mrlpezrjn3.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\erqn6x3yna-worgj0nhwm.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\2t32ksd7np-gk0pw8i4co.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\psn899v9mm-x0q3zqp4vz.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\xkf2u7j1qj-d6nrnj6jjx.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\q844ze4ibf-m9qm4tazc0.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\fupnjkrvnh-ttgo8qnofa.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\cweub1ievm-jjsuc0puko.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\f9u9yq58ld-9vr69e8ynj.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\rjoore6tta-87fc7y1x7t.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\c638nejqhc-mlv21k5csn.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\ben68gm20u-z6r4lbokwu.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\compressed\0gc27po6c6-z6r4lbokwu.gz
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\staticwebassets\msbuild.trySupa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\staticwebassets\msbuild.trySupa.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\staticwebassets\msbuild.build.trySupa.props
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.trySupa.props
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.trySupa.props
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\trySupa.csproj.Up2Date
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\trySupa.genruntimeconfig.cache
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\ref\trySupa.dll
+C:\Users\Darsh\Source\Repos\temporary\bin\Debug\net9.0\Rotativa.AspNetCore.dll
+C:\Users\Darsh\Source\Repos\temporary\obj\Debug\net9.0\trySupa.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\trySupa.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\refint\trySupa.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\trySupa.pdb
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\appsettings.json
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\trySupa.staticwebassets.runtime.json
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\trySupa.staticwebassets.endpoints.json
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\trySupa.exe
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\trySupa.deps.json
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\trySupa.runtimeconfig.json
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\trySupa.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\trySupa.pdb
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\MimeMapping.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Npgsql.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Rotativa.AspNetCore.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Supabase.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Supabase.Core.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Supabase.Functions.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Supabase.Gotrue.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Supabase.Postgrest.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Supabase.Realtime.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Supabase.Storage.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\System.Reactive.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\bin\Debug\net9.0\Websocket.Client.dll
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\trySupa.csproj.AssemblyReference.cache
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\trySupa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\trySupa.AssemblyInfoInputs.cache
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\trySupa.AssemblyInfo.cs
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\trySupa.csproj.CoreCompileInputs.cache
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\trySupa.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\trySupa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\trySupa.RazorAssemblyInfo.cache
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\trySupa.RazorAssemblyInfo.cs
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\trySupa.sourcelink.json
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\scopedcss\bundle\trySupa.styles.css
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\scopedcss\projectbundle\trySupa.bundle.scp.css
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\lrcv02kvcs-b9sayid5wm.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\tvp8mo1x7b-61n19gt1b8.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\vplod2f0dh-xtxxf3hu2r.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\5n7mdisgi8-t1cqhe9u97.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\343cc7yh3x-c2jlpeoesf.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\pnkfzf1fob-sejl45xvog.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\ndohpci0jm-aexeepp0ev.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\cwem7r3wh9-xvp3kq03qx.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\ua6b47nmpi-ausgxo2sd3.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\yxhfdgxsju-22vffe00uq.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\z4l10vmppg-cosvhxvwiu.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\9hnnn9lbc4-qesaa3a1fm.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\pe6eqtwgd8-fvhpjtyr6v.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\1osvn70zx8-tmc1g35s3z.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\731ae91au9-fsbi9cje9m.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\hei478tjbz-rxsg74s51o.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\hhbcy3bc3n-ee0r1s7dh0.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\vhfr9e239l-q9ht133ko3.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\b2w6lo78dx-jd9uben2k1.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\wdp0lsd6js-gye83jo8yx.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\5ryivq5920-r4e9w2rdcm.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\t4z7g8sfl5-wl58j5mj3v.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\oz4eshqdv5-c2oey78nd0.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\kf4fwz4khc-d4r6k3f320.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\mps8noc5xv-j5mq2jizvt.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\1b1bl409y1-keugtjm085.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\l2tq6yhrwd-nvvlpmu67g.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\8j7due2sv2-zub09dkrxp.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\ya7zmntent-pj5nd1wqec.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\ihr5080oi0-43atpzeawx.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\yqrcy5yjx0-v0zj4ognzu.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\qtyl06nuj8-ynyaa8k90p.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\dw01v4fkjj-hrwsygsryq.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\vvhu6hh4vg-c63t5i9ira.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\3j1gqyhszo-ft3s53vfgj.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\mso72imewp-4094rpi4f9.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\n7nmsncltg-6pdc2jztkx.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\am5rirh9bg-hd3gran6i8.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\f45c6ccbjo-iovd86k7lj.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\qvwnbks4ez-ltid2c489k.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\47amljszam-kbrnm935zg.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\ihn683jq6k-8vyfqsqgz1.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\2de7leii6g-y7v9cxd14o.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\rl1b8brxnm-u9q1upor1n.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\9p989awsh9-h1s4sie4z3.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\0fzmjak9yf-4d85u1mtcx.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\0ymt6x8e0n-0j3bgjxly4.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\4aryskb57u-03hjc8e09r.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\80e2bpah11-48y08845bh.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\dlor5vwpor-356vix0kms.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\e62i3m3boo-83jwlth58m.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\u7e0z617k8-mrlpezrjn3.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\erqn6x3yna-worgj0nhwm.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\2t32ksd7np-gk0pw8i4co.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\psn899v9mm-x0q3zqp4vz.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\xkf2u7j1qj-d6nrnj6jjx.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\q844ze4ibf-m9qm4tazc0.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\fupnjkrvnh-ttgo8qnofa.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\cweub1ievm-jjsuc0puko.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\f9u9yq58ld-9vr69e8ynj.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\rjoore6tta-87fc7y1x7t.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\c638nejqhc-mlv21k5csn.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\ben68gm20u-z6r4lbokwu.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\compressed\0gc27po6c6-z6r4lbokwu.gz
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\staticwebassets\msbuild.trySupa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\staticwebassets\msbuild.trySupa.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\staticwebassets\msbuild.build.trySupa.props
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.trySupa.props
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.trySupa.props
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\trySupa.csproj.Up2Date
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\trySupa.genruntimeconfig.cache
+C:\Users\JATIN PRAJAPATI\Downloads\temporary\temporary\obj\Debug\net9.0\ref\trySupa.dll
